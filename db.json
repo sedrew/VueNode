@@ -1,0 +1,34 @@
+{
+  "posts": [],
+  "user": [
+    {
+      "name": "Danet",
+      "password": "7989fdc62331df0fcf7075b435254d06"
+    },
+    {
+      "name": "Artem",
+      "password": "827ccb0eea8a706c4c34a16891f84e7b"
+    },
+    {
+      "name": "Ivan",
+      "password": "5d41402abc4b2a76b9719d911017c592"
+    },
+    {
+      "name": "FBI  ",
+      "password": "81dc9bdb52d04dc20036dbd8313ed055"
+    },
+    {
+      "name": "Artem",
+      "password": "08f90c1a417155361a5c4b8d297e0d78"
+    },
+    {
+      "name": "Ms.katnet",
+      "password": "afe102845ea87edb93d5c54dcdc2d77e"
+    },
+    {
+      "name": "Danet",
+      "password": "7989fdc62331df0fcf7075b435254d06"
+    }
+  ],
+  "count": 24
+}
