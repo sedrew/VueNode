@@ -16,7 +16,7 @@ const FileSync = require('lowdb/adapters/FileSync')
 const adapter = new FileSync('db.json')
 const db = low(adapter)
 /////////
-
+/////
 //Отправка заголовков для CORS
 app.use(function (req, res, next) {
 	res.header("Access-Control-Allow-Origin", "*");
